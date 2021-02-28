@@ -15,8 +15,11 @@ Removed unnecessary CSS rules in the benefits section
 
 Removed unecessary CSS rules in content section
 
-Added Alt tags to all photos & made sure they were reletively pathed
+Added alt tags to all photos & made sure they were reletively pathed
 
-Added Title to top of webpage
+Added title to top of webpage
 
+Added reletively pathed favicon to webpage 
+
+Increase font size to "p", "nav" and "h3" to make them easier to read
 
