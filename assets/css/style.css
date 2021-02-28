@@ -59,6 +59,7 @@ p {
     background-position: center;
 }
 
+/* float rules */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -67,12 +68,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 /* Styles benefits */
@@ -106,6 +101,12 @@ p {
 }
 
 /* Styles the content section */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 /* removed unnecessary rules and united them into 1 rule */
 .info {
     margin-bottom: 20px;
