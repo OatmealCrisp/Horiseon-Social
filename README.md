@@ -13,6 +13,8 @@ Added Comments to CSS to clarify each rules purpose
 
 Removed unnecessary CSS rules in the benefits section
 
+Removed unecessary CSS rules in content section
+
 Added Alt tags to all photos & made sure they were reletively pathed
 
 Added Title to top of webpage
