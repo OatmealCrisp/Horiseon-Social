@@ -23,3 +23,6 @@ Added reletively pathed favicon to webpage
 
 Increase font size to "p", "nav" and "h3" to make them easier to read
 
+Link to <a href="https://oatmealcrisp.github.io/Horiseon-Social">Horiseon</a>
+
+Screenshot of <img src="./assets/images/horiseon example.png"/>
