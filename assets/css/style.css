@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-
+/* Header styles */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,7 +18,7 @@ header h1 {
 }
 
 header h1 .seo {
-    color: #d9dcd6;
+    color: #7c7c7c;
 }
 
 header nav {
@@ -43,10 +43,13 @@ a {
     text-decoration: none;
 }
 
+
+/* Styles all paragraphs */
 p {
     font-size: 16px;
 }
 
+/* Styles hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -72,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/* Styles benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -131,6 +135,7 @@ p {
     max-width: 150px;
 }
 
+/* Styles the content section */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -185,6 +190,7 @@ p {
     font-size: 36px;
 }
 
+/* styles the footer */
 footer {
     padding: 30px;
     clear: both;
